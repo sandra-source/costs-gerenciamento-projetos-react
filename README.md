@@ -1,2 +1,2 @@
-# costs-gerenciamento-projetos-react
+# COSTS, UM GERENCIADOR DE PROJETOS FEITO EM REACT
 COSTS 
