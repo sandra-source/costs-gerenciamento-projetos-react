@@ -8,7 +8,7 @@ function Navbar() {
     return (
         <nav className={styles.navbar}>
             <Container>
-                <Link><img src={logo} alt="Logo da Costs" /></Link>
+                <Link to="/" onClick={() => {window.location.href = "/"}}><img src={logo} alt="Logo da Costs" /></Link>
                 <ul className={styles.list}>
                     <li className={styles.item}>
                         <Link to="/" onClick={() => { window.location.href = "/" }}>Home</Link>
