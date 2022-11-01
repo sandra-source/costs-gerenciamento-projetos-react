@@ -1,19 +1,6 @@
 {
   "projects": [
     {
-      "projectName": "teste",
-      "budget": "2000",
-      "costs": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "projectName": "d",
-      "costs": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "projectName": "Segundo Projetoooo",
       "costs": 0,
       "services": [],
